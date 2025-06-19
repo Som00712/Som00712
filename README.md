@@ -13,7 +13,7 @@ I've created **complete, professional README files** for all 4 of your projects:
 
 ### **Repository 1: ClassForge**
 
-1. **Go to GitHub:** [github.com/new](https://github.com/new)
+1. **Go to GitHub:** ✅ https://github.com/Som00712/classforge
 2. **Repository name:** `classforge`
 3. **Description:** `AI-Powered Educational Assistant with clustering capabilities`
 4. **Make it Public** ✅
@@ -27,7 +27,7 @@ I've created **complete, professional README files** for all 4 of your projects:
 
 ### **Repository 2: UCF101 Video Classifier**
 
-1. **Go to GitHub:** [github.com/new](https://github.com/new)
+1. **Go to GitHub:** ✅ https://github.com/Som00712/ucf101-classifier
 2. **Repository name:** `ucf101-classifier`
 3. **Description:** `Deep Learning for Action Recognition using 3D CNNs`
 4. **Make it Public** ✅
@@ -41,7 +41,7 @@ I've created **complete, professional README files** for all 4 of your projects:
 
 ### **Repository 3: TIRP Survey Dashboard**
 
-1. **Go to GitHub:** [github.com/new](https://github.com/new)
+1. **Go to GitHub:** ✅ https://github.com/Som00712/tirp-dashboard
 2. **Repository name:** `tirp-dashboard`
 3. **Description:** `Knowledge Graph Analytics for complex survey data`
 4. **Make it Public** ✅
@@ -55,7 +55,7 @@ I've created **complete, professional README files** for all 4 of your projects:
 
 ### **Repository 4: Shopparazzi**
 
-1. **Go to GitHub:** [github.com/new](https://github.com/new)
+1. **Go to GitHub:** ✅ https://github.com/Som00712/shopparazzi
 2. **Repository name:** `shopparazzi`
 3. **Description:** `Intelligent Price Optimization Platform for grocery shopping`
 4. **Make it Public** ✅
